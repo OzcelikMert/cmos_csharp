@@ -1,0 +1,67 @@
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\bin\Debug\CMOS.exe.config
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\bin\Debug\CMOS.exe
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\bin\Debug\CMOS.pdb
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\obj\Debug\CMOS.csprojResolveAssemblyReference.cache
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\obj\Debug\CMOS.anaform.resources
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\obj\Debug\CMOS.Form1.resources
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\obj\Debug\CMOS.Properties.Resources.resources
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\obj\Debug\CMOS.csproj.GenerateResource.Cache
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\obj\Debug\CMOS.exe
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\obj\Debug\CMOS.pdb
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\obj\Debug\CMOS.MüsterininGoreceigi.resources
+c:\users\dy\documents\visual studio 2015\Projects\CMOS\CMOS\obj\Debug\CMOS.KayıtOlmaYeri.resources
+C:\Users\dy\Documents\Visual Studio 2015\Projects\CMOS\CMOS\obj\Debug\CMOS.Güncelle.resources
+C:\Users\dy\Desktop\CMOS\CMOS\bin\Debug\CMOS.exe.config
+C:\Users\dy\Desktop\CMOS\CMOS\obj\Debug\CMOS.exe
+C:\Users\dy\Desktop\CMOS\CMOS\obj\Debug\CMOS.pdb
+C:\Users\dy\Desktop\CMOS\CMOS\bin\Debug\CMOS.exe
+C:\Users\dy\Desktop\CMOS\CMOS\bin\Debug\CMOS.pdb
+C:\Users\dy\Desktop\CMOS\CMOS\obj\Debug\CMOS.csprojResolveAssemblyReference.cache
+C:\Users\dy\Desktop\CMOS\CMOS\obj\Debug\CMOS.anaform.resources
+C:\Users\dy\Desktop\CMOS\CMOS\obj\Debug\CMOS.Form1.resources
+C:\Users\dy\Desktop\CMOS\CMOS\obj\Debug\CMOS.Güncelle.resources
+C:\Users\dy\Desktop\CMOS\CMOS\obj\Debug\CMOS.KayıtOlmaYeri.resources
+C:\Users\dy\Desktop\CMOS\CMOS\obj\Debug\CMOS.MüsterininGoreceigi.resources
+C:\Users\dy\Desktop\CMOS\CMOS\obj\Debug\CMOS.Properties.Resources.resources
+C:\Users\dy\Desktop\CMOS\CMOS\obj\Debug\CMOS.csproj.GenerateResource.Cache
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\bin\Debug\CMOS.exe.config
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\obj\Debug\CMOS.exe
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\obj\Debug\CMOS.pdb
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\bin\Debug\CMOS.exe
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\bin\Debug\CMOS.pdb
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\obj\Debug\CMOS.csprojResolveAssemblyReference.cache
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\obj\Debug\CMOS.anaform.resources
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\obj\Debug\CMOS.Form1.resources
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\obj\Debug\CMOS.Güncelle.resources
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\obj\Debug\CMOS.KayıtOlmaYeri.resources
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\obj\Debug\CMOS.MüsterininGoreceigi.resources
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\obj\Debug\CMOS.Properties.Resources.resources
+C:\Users\dy\Desktop\Bazı program ve klasörler\CMOS\CMOS\obj\Debug\CMOS.csproj.GenerateResource.Cache
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\bin\Debug\CMOS.exe.config
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\obj\Debug\CMOS.exe
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\obj\Debug\CMOS.pdb
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\bin\Debug\CMOS.exe
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\bin\Debug\CMOS.pdb
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\obj\Debug\CMOS.csprojResolveAssemblyReference.cache
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\obj\Debug\CMOS.anaform.resources
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\obj\Debug\CMOS.Form1.resources
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\obj\Debug\CMOS.Güncelle.resources
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\obj\Debug\CMOS.KayıtOlmaYeri.resources
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\obj\Debug\CMOS.MüsterininGoreceigi.resources
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\obj\Debug\CMOS.Properties.Resources.resources
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\obj\Debug\CMOS.Yazdırma.resources
+C:\Users\dy\Desktop\AmcaOğulları\CMOS\CMOS\obj\Debug\CMOS.csproj.GenerateResource.Cache
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\bin\Debug\CMOS.exe.config
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\bin\Debug\CMOS.exe
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\bin\Debug\CMOS.pdb
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\obj\Debug\CMOS.csprojResolveAssemblyReference.cache
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\obj\Debug\CMOS.anaform.resources
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\obj\Debug\CMOS.Form1.resources
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\obj\Debug\CMOS.Güncelle.resources
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\obj\Debug\CMOS.KayıtOlmaYeri.resources
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\obj\Debug\CMOS.MüsterininGoreceigi.resources
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\obj\Debug\CMOS.Properties.Resources.resources
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\obj\Debug\CMOS.Yazdırma.resources
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\obj\Debug\CMOS.csproj.GenerateResource.Cache
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\obj\Debug\CMOS.exe
+C:\Users\dy\Desktop\Mert's Folders\School Projects\CMOS\CMOS\obj\Debug\CMOS.pdb
